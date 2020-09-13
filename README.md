@@ -1,5 +1,5 @@
 ## Hey,bro! welcome to ZeiDiao's turf👋
-I'm 8 years old self-professor full-stack develop from china
+I'm 8 years old self-learning full-stack develop from Slums of China
 
 ### Indie developer | lonely struggler | green student | Math-Lover | justice’s friend
 

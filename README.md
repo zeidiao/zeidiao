@@ -1,7 +1,7 @@
 ## Hey,bro! welcome to ZeiDiao's turf😊 👋
 I'm 8 years old self-professor full-stack develop from china
 
-#### Indie developer | Single struggler | green student | Math-Lover | justice’s frind
+### Indie developer | Single struggler | green student | Math-Lover | justice’s frind
 
 [![bilibili Badge](https://img.shields.io/badge/-@贼雕-00A1D6?style=flat&labelColor=00A1D6&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/490181478/)](https://space.bilibili.com/490181478/)
 [![weibo Badge](https://img.shields.io/badge/-@贼雕-E6162D?style=flat&labelColor=E6162D&logo=Sina-Weibo&logoColor=white&link=https://weibo.com/zeidiao/)](https://weibo.com/zeidiao/)
@@ -10,8 +10,8 @@ I'm 8 years old self-professor full-stack develop from china
 [![Medium Badge](https://img.shields.io/badge/-@zeidiao-12100E?style=flat&labelColor=12100E&logo=Medium&link=https://medium.com/@zeidiao)](https://medium.com/@zeidiao)
 [![Website Badge](https://img.shields.io/badge/-zeidiao.com-ffffff?style=flat&labelColor=666999&logo=Google-Chrome&logoColor=white&link=https://zeidiao.com)](https://zeidiao.com)
 [![Mail Badge](https://img.shields.io/badge/-zeidiao@icloud.com-3693F3?style=flat&labelColor=3693F3&logo=Icloud&logoColor=white&link=mailto:mobolun@icloud.com)](mailto:zeidiao@icloud.com)
----
-## langs and stats
+
+### langs and stats
 ![mobolun's github stats](https://github-readme-stats.vercel.app/api?username=zeidiao&theme=gruvbox&show_icons=true)
 [![mobolun's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeidiao&theme=gruvbox&layout=compact&hide=glsl,)](https://github.com/zeidiao/zeidiao/issues)
 

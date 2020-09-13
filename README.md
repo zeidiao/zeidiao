@@ -1,4 +1,4 @@
-## Hey,bro! welcome to ZeiDiao's turf😊 👋
+## Hey,bro! welcome to ZeiDiao's turf👋
 I'm 8 years old self-professor full-stack develop from china
 
 ### Indie developer | Single struggler | green student | Math-Lover | justice’s frind

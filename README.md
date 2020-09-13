@@ -1,6 +1,7 @@
 ## Hey,bro! welcome to ZeiDiao's turf😊 👋
 I'm 8 years old self-professor full-stack develop from china
-Indie developer | Single struggler | green student | Math-Lover | justice’s frind
+####Indie developer | Single struggler | green student | Math-Lover | justice’s frind
+---
 [![bilibili Badge](https://img.shields.io/badge/-@贼雕-00A1D6?style=flat&labelColor=00A1D6&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/490181478/)](https://space.bilibili.com/490181478/)
 [![weibo Badge](https://img.shields.io/badge/-@贼雕-E6162D?style=flat&labelColor=E6162D&logo=Sina-Weibo&logoColor=white&link=https://weibo.com/zeidiao/)](https://weibo.com/zeidiao/)
 [![Twitter Badge](https://img.shields.io/badge/-@zeidiao-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/mobolun)](https://twitter.com/zeidiao)

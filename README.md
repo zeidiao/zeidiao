@@ -1,5 +1,5 @@
 ## Hey,bro! welcome to ZeiDiao's turf👋
-I'm 8 years old self-learning full-stack develop from Slums of China
+I'm 8 years old self-learning full-stack develop from Slums of China,I plan to practice by studying and then save money to go to America to find my girlfriend, although I'm not sure if she really exists😂😂,If anyone sees her, please tell her passenger to wait for me.
 
 ### Indie developer | lonely struggler | green student | Math-Lover | justice’s friend
 

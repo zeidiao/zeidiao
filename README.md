@@ -1,4 +1,6 @@
 ## Hey,bro! welcome to ZeiDiao's turf👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeidiao%2Fzeidiao&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 I'm 8 years old self-learning full-stack develop from Slums of China,I plan to practice by studying and then save money to go to America to find my girlfriend, although I'm not sure if she really exists,If anyone sees her, please tell her to wait for me.
 
 ### Indie developer | lonely struggler | green student | Math-Lover | justice’s friend
@@ -12,7 +14,6 @@ I'm 8 years old self-learning full-stack develop from Slums of China,I plan to p
 [![Mail Badge](https://img.shields.io/badge/-zeidiao@icloud.com-3693F3?style=flat&labelColor=3693F3&logo=Icloud&logoColor=white&link=mailto:mobolun@icloud.com)](mailto:zeidiao@icloud.com)
 
 ### langs and stats
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeidiao%2Fzeidiao&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![mobolun's github stats](https://github-readme-stats.vercel.app/api?username=zeidiao&theme=gruvbox&show_icons=true)
 [![mobolun's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeidiao&theme=gruvbox&layout=compact&hide=glsl,)](https://github.com/zeidiao/zeidiao/issues)
 

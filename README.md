@@ -1,7 +1,7 @@
 ## Hey,bro! welcome to ZeiDiao's turf👋
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeidiao%2Fzeidiao&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-I was born in A.D.2012. I taught myself full-stack development. I come from China's slums. I plan to save some money through study and practice and then go to America to find my girlfriend. Although I am not sure if she really exists, if anyone sees her, please tell her to wait for me.
+I was born in A.D.2012. I taught myself how to develop a full stack. I come from China's slum area. I plan to save some money through study and practice and then go to America to find my girlfriend. Although I am not sure if she really exists, if someone sees her, please tell her to wait for me. 
 
 ### Indie developer | lonely struggler | green student | Math-Lover | justice’s friend
 

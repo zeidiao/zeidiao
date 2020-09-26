@@ -14,9 +14,9 @@ I was born in A.D.2012. I self-learning full-stack development from China's slum
 [![Mail Badge](https://img.shields.io/badge/-zeidiao@icloud.com-3693F3?style=flat&labelColor=3693F3&logo=Icloud&logoColor=white&link=mailto:mobolun@icloud.com)](mailto:zeidiao@icloud.com)
 
 ### langs and stats
-![mobolun's github stats](https://github-readme-stats.vercel.app/api?username=zeidiao&theme=gruvbox&show_icons=true)
+![zeidiao's github stats](https://github-readme-stats.vercel.app/api?username=zeidiao&theme=gruvbox&show_icons=true)
 
-[![mobolun's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeidiao&theme=gruvbox&layout=compact&hide=glsl,)](https://github.com/zeidiao/zeidiao/issues)
+[![zeidiao's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeidiao&theme=gruvbox&layout=compact&hide=glsl,html,css)](https://github.com/zeidiao/zeidiao/issues)
 
 
 
